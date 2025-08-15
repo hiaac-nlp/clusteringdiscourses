@@ -1,0 +1,1 @@
+Escreva um conto sobre {artigo} {genero} {raca}
